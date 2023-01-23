@@ -1,0 +1,6 @@
+*.data
+.idea
+
+pva_poetry/pva/__pycache__
+
+venv
